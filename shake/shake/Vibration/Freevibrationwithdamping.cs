@@ -326,6 +326,7 @@ public class CFreevibrationwithdamping
     public double x = 0; //位置.
     public void update(double t)
     {
+        //http://www21.atwiki.jp/xxcake/pages/21.html
         //阻尼振動.
         //mx"+cx'+kx=0   
         //ω=√k/m,ρ=c/2m として、
