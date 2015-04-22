@@ -17,6 +17,7 @@ using System.ComponentModel;
 
 public class CFreevibration
 {
+    //http://www21.atwiki.jp/xxcake/pages/21.html
     public double x = 0; //位置.
     double m = 0.1; //質量.
     double k = 1;   //彈簧常數.
